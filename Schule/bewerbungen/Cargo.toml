@@ -1,0 +1,10 @@
+[package]
+name = "bewerbungen"
+version = "0.1.0"
+authors = ["Daniel-ADM"]
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[dependencies]
