@@ -1,0 +1,6 @@
+[package]
+name = "iban_rechner"
+version = "0.1.0"
+authors = ["Daniel-ADM"]
+
+[dependencies]
