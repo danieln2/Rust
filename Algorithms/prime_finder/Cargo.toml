@@ -1,0 +1,6 @@
+[package]
+name = "prime_finder"
+version = "0.1.0"
+authors = ["Daniel-ADM"]
+
+[dependencies]
