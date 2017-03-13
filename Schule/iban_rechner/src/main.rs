@@ -1,6 +1,10 @@
 fn main() {
     let mut x: Vec<u16> = vec![0,0,4,1,3,1,0,9,8,7,6,5,4,3,2,1,0,0,1,0,9,0,0,7];
+<<<<<<< HEAD
     
+=======
+   
+>>>>>>> 2dbce92ad964df384b09982ce76225614455fc4e
    
     let y = 97;
     let mut return_string = String::new();
