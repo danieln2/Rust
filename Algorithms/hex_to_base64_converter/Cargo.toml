@@ -1,6 +1,14 @@
 [package]
+<<<<<<< HEAD
 name = "hex_to_base64_converter"
 version = "0.1.0"
 authors = ["Daniel <d.nier30@web.de>"]
 
 [dependencies]
+=======
+name = "cryptopals"
+version = "0.1.0"
+authors = ["daniel.nier"]
+
+[dependencies]
+>>>>>>> efc8c97332f5a1da37a3e9d59844aff07d2d85d7
