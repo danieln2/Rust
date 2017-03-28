@@ -1,0 +1,6 @@
+[package]
+name = "sb_xor_cipher"
+version = "0.1.0"
+authors = ["Daniel <d.nier30@web.de>"]
+
+[dependencies]
