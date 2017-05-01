@@ -35,7 +35,7 @@ fn convert (hex_string: String)
     let mut index = 0;
     let mut hex: Vec<u32> = Vec::new();
      
-    // concatenate two byte values (effectively only 4 bit are set, so only 4 bit need to be shifted) 
+    // concatenate two byte values (effectively only 4 bits are set, so only 4 bits need to be shifted) 
     while index < bytes.len()-1
     {
          hex.push((bytes[index] << 4) + bytes[index+1]);
